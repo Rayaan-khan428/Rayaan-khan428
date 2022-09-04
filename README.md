@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayaan khan, I am CS student studying at Wilfrid Laurier University
 - 👀 I Have a strong interest in Aviation, and learning to build my own flight stabilizer
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently working on starting a web development agency
 - 💞️ Feel free to reach out to collaborate with me, on any project espiecally if it's related to aviation, or web development.
 - 📫 How to reach me: https://www.linkedin.com/in/rayaan-khan/
 
