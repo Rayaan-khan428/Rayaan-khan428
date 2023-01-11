@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rayaan.k.ca@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/fkIVX](shorturl.at/fkIVX)
+- 📄 Know about my experiences [Resume](bit.ly/3W59KJt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
