@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rayaan.k.ca@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Yxy58vQaut89yAFYE1uWTvL4fyEoBq32/edit?usp=sharing&ouid=100819565910931085672&rtpof=true&sd=true](https://docs.google.com/document/d/1Yxy58vQaut89yAFYE1uWTvL4fyEoBq32/edit?usp=sharing&ouid=100819565910931085672&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Yxy58vQaut89yAFYE1uWTvL4fyEoBq32/edit?usp=sharing&ouid=100819565910931085672&rtpof=true&sd=true](shorturl.at/fkIVX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
