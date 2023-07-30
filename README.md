@@ -1,5 +1,17 @@
+# Rayaan
 
-<!---
-Rayaan-khan428/Rayaan-khan428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- Interested in automation and artiifical intelligence for growth
+- Currently leveling up my skills in Full Stack Dev
+- Open to collaborating on any projects.
+
+## Projects
+- [Research2SlidesWeb](link-to-project-1): Spring Boot Application that can convert pdf's of research papers into summarized slide shows
+- [Automated-Camp-Booker](link-to-project-2): Automate the process of finding and book campsites. set your criteria, and this program will alert you the moment a site becomes available
+
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=rayaan-khan428&show_icons=true&hide_title=true)
+
+## Reach me at
+- [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rayaan-khan/))
