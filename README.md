@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=rayaan-khan428&show_icons=true&hide_title=true)
 
 ## Reach me at
-- [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rayaan-khan/))
+- [LinkedIn](https://www.linkedin.com/in/rayaan-khan/)
