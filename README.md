@@ -9,9 +9,5 @@
 - [Research2SlidesWeb](link-to-project-1): Spring Boot Application that can convert pdf's of research papers into summarized slide shows
 - [Automated-Camp-Booker](link-to-project-2): Automate the process of finding and book campsites. set your criteria, and this program will alert you the moment a site becomes available
 
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rayaan-khan428&show_icons=true&hide_title=true)
-
 ## Reach me at
 - [LinkedIn](https://www.linkedin.com/in/rayaan-khan/)
