@@ -1,7 +1,6 @@
 # Rayaan
 
 ## About Me
-- Interested in automation and artiifical intelligence for growth
 - Currently leveling up my skills in Full Stack Dev
 - Open to collaborating on any projects.
 
